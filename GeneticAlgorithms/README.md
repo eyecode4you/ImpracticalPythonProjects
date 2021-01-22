@@ -1,4 +1,5 @@
-# Programs using Genetic Algorithms
+# Chapter 7
+## Programs using Genetic Algorithms
 - Brute-Force Combination Cracker
 - Combination Cracker Using a Genetic Algorithm
 - super_rats.py
